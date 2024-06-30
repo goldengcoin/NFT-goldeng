@@ -1,0 +1,15 @@
+{
+  "name": "MEMEFT",
+  "description": "A real meme in your real world",
+  "image": "https://raw.githubusercontent.com/goldengcoin/NFT-goldeng/main/box_meme.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    }
+  ]
+}
