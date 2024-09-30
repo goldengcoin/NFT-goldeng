@@ -1,8 +1,8 @@
 {
   "name": "GG",
   "description": "memifying the world in all chains!!!",
-  "image": "ipfs://QmXsbxza7D3odnWHfFhonqQeG1a9CQJqg5SfVSU54kuMCX", 
-  "animation_url": "ipfs://QmZuz4a3tT1ji2WYVLUaSjxHgnPg5Ye4aTmEx3U8hmMwmr",
+  "image": "https://ipfs.io/ipfs/QmXsbxza7D3odnWHfFhonqQeG1a9CQJqg5SfVSU54kuMCX", 
+  "animation_url": "https://ipfs.io/ipfs/QmZuz4a3tT1ji2WYVLUaSjxHgnPg5Ye4aTmEx3U8hmMwmr",
   "attributes": [
     {
       "trait_type": "Background",
