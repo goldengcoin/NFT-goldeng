@@ -1,7 +1,8 @@
 {
-  "name": "MEMEFT",
-  "description": "A real meme in your real world",
-  "image": "https://raw.githubusercontent.com/goldengcoin/NFT-goldeng/main/box_meme.jpeg",
+  "name": "GG",
+  "description": "The beginning of memifing the world",
+  "image": "ipfs://QmAnotherCIDforImage.png", 
+  "animation_url": "ipfs://QmZuz4a3tT1ji2WYVLUaSjxHgnPg5Ye4aTmEx3U8hmMwmr",
   "attributes": [
     {
       "trait_type": "Background",
